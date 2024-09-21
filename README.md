@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **Actually i'm coding since 9 years-old.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
