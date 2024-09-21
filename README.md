@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Baturalp</h1>
+<h1 align="center">Hi 👋, I'm Baturalp</h1>
 <h3 align="center">A passionate adventurer about developing things from Türkiye.</h3>
 
 - 🌱 I’m currently studying to **x86 assembly, Computer Vision and Computer Olympics**
@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **i'm coding since 9 years-old.**
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
