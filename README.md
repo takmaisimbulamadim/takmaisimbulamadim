@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **muhammedbaturalpgumus@outlook.com**
 
-- ⚡ Fun fact **Actually i'm coding since 9 years-old.**
+- ⚡ Fun fact ** i'm coding since 9 years-old.**
 
 <p align="left">
 </p>
