@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baturalp</h1>
 <h3 align="center">A passionate adventurer about developing things from Türkiye.</h3>
 
-- 🌱 I’m currently studying to **x86 assembly, Computer Vision and Computer Olympics**
+- 🌱 I’m currently studying to **x86 assembly, computer vision and computer olympics**
 
 - 💬 Ask me about **opencv-python, embedded systems and processor architectures**
 
